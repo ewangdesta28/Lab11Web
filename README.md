@@ -1,4 +1,6 @@
 # Lab11Web
+Mohon Maaf pak banyak terjadi kesalahan terutama pada bagian style.css,
+<br>
 localhost:8080/artikel
 ![artikel 1](https://user-images.githubusercontent.com/59870954/122876083-45b86b80-d35f-11eb-855c-a69b3281eb62.PNG)
 <hr>
